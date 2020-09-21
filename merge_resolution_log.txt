@@ -1,3 +1,6 @@
+My git: anthonypearo
+Partner git: akamandakilleen
+
 commit 37ba35dc75c276038438a9c2c1b8c490f4c0b0c3 (HEAD -> master)
 Merge: e5ee638 8b3b0a4
 Author: Anthony Pearo <anthony.pearo@colorado.edu>
