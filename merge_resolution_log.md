@@ -1,0 +1,25 @@
+commit 37ba35dc75c276038438a9c2c1b8c490f4c0b0c3 (HEAD -> master)
+Merge: e5ee638 8b3b0a4
+Author: Anthony Pearo <anthony.pearo@colorado.edu>
+Date:   Mon Sep 21 18:59:23 2020 +0000
+
+    Resolved merge conflict on README
+
+commit e5ee638fbc1e34492a9d3f5552bf34941b92f5ce
+Author: Anthony Pearo <anthony.pearo@colorado.edu>
+Date:   Mon Sep 21 18:42:29 2020 +0000
+
+    Added merge conflict to README
+
+commit 8b3b0a4d14da28158d1577093e821bac55b67642 (origin/master)
+Author: Amanda Killeen <amanda.killeen@gmail.com>
+Date:   Sat Sep 19 14:12:17 2020 -0700
+
+    Added partner name
+
+commit 9cdb059640359a9be51749980c7e1b3cb873d416
+Merge: 42ab70b e5e4086
+Author: Anthony Pearo <anthony.pearo@colorado.edu>
+Date:   Sat Sep 19 20:39:52 2020 +0000
+
+    Merge branch 'testing-new-files' w/ 'master'
